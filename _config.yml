@@ -19,8 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Shweta Mohandas
-description: >- # this means to ignore newlines until "baseurl:"
-Policy Officer at Centre for Internet and Society India.
+description: Policy Officer at Centre for Internet and Society India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @ShwetaMohandas
