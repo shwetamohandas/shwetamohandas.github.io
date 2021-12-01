@@ -23,6 +23,8 @@ description: Policy Officer at Centre for Internet and Society India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShwetaMohandas
+include:
+  - _static
 
 defaults:
   - scope:
