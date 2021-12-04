@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+title: Writing
+permalink: /writing/
 ---
 
 Opinion Pieces:
@@ -33,13 +32,30 @@ Articles & Reports:
 
 [NITI Aayog Discussion Paper: An aspirational step towards India’s AI policy](https://cis-india.org/internet-governance/blog/niti-aayog-discussion-paper-an-aspirational-step-towards-india2019s-ai-policy)
 
+[A study of FinTech companies and their privacy policies](https://cis-india.org/internet-governance/files/Hewlett%20A%20study%20of%20FinTech%20companies%20and%20their%20privacy%20policies.pdf/view)
+
 [Artificial Intelligence in India: A Compendium](https://cis-india.org/internet-governance/blog/artificial-intelligence-inindia-a-compendium)
 
 [People Driven and Tech Enabled – How AI and ML are Changing the Future of Cyber Security in India](https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india)
 
 
+Policy Submissions
+
+[Comments and recommendations to the Guidelines for “Influencer Advertising on Digital Media” 05 April, 2021](https://cis-india.org/internet-governance/blog/comments-and-recommendations-to-the-guidelines-for-201cinfluencer-advertising-on-digital-media201d)
+
+[The Centre for Internet and Society’s comments and recommendations to the: Data   Empowerment and Protection Architecture 30 November 2020](https://cis-india.org/depacomments1)
+
+[Comments to National Digital Health Mission: Health Data Management Policy 5 October 2020](https://cis-india.org/internet-governance/blog/comments-to-national-digital-health-mission-health-data-management-policy)
+
+[Inputs to the Report on the Non-Personal Data Governance Framework 30 December, 2020](https://cis-india.org/raw/inputs-to-report-on-non-personal-data-governance-framework)
+
+[Comments to the Personal Data Protection Bill 2019 12 February, 2020](https://cis-india.org/internet-governance/blog/comments-to-the-personal-data-protection-bill-2019)
+
+[Comments to The Personal Data Protection Bill 18 October, 2018](https://cis-india.org/internet-governance/comments-to-the-personal-data-protection-bill)
+
+
 Academic Writing:
 
-Patents are Windows or they are Walls: Open Licensing of Publicly-funded Research
+[Ali, Feroz and Mohandas, Shweta, Patents are Windows or they are Walls: Open Licensing of Publicly-funded Research (October 9, 2017)](https://ssrn.com/abstract=3307768)
 
-Joining the Dots in India's Big-Ticket Mobile Phone SEP Litigation
+[Lakshané, Rohini and Mohandas, Shweta, Joining the Dots in India's Big-Ticket Mobile Phone SEP Litigation (October 31, 2017](https://ssrn.com/abstract=3120364 or http://dx.doi.org/10.2139/ssrn.3120364)
