@@ -4,9 +4,9 @@ title: Speaking
 permalink: /speaking/
 ---
 
-Videos
+##Videos
 
-[Nalsar University Of Law | Data Privacy & Citizen's Rights](https://www.youtube.com/watch?v=fkBoJJHQ_Lc&ab_channel=NALSARUniversityofLaw)
+[Nalsar University Of Law's Data Privacy & Citizen's Rights](https://www.youtube.com/watch?v=fkBoJJHQ_Lc&ab_channel=NALSARUniversityofLaw)
 
 [FinTech in India: A Study of Privacy and Security Commitments](https://www.youtube.com/watch?v=8U0kb4u3px8&ab_channel=CentreforInternetandSociety)
 
