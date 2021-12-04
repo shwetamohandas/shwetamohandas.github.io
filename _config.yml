@@ -32,6 +32,10 @@ defaults:
     values:
       image: https://shwetamohandas.com/assets/img/shweta.png
 
+twitter:
+  username: shwetamohandas
+  card: summary_large_image
+
 # Build settings
 markdown: kramdown
 theme: minima
