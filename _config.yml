@@ -30,7 +30,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://shwetamohandas.com/assets/img/shweta.png
+      image: https://shwetamohandas.com/assets/img/home.png
 
 twitter:
   username: ShwetaMohandas
