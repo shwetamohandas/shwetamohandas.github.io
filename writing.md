@@ -46,7 +46,7 @@ permalink: /writing/
 
 ### [People Driven and Tech Enabled – How AI and ML are Changing the Future of Cyber Security in India](https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india)
 
-## Policy Submissions
+## Policy Submissions:
 
 ### [Comments and recommendations to the Guidelines for “Influencer Advertising on Digital Media” 05 April, 2021](https://cis-india.org/internet-governance/blog/comments-and-recommendations-to-the-guidelines-for-201cinfluencer-advertising-on-digital-media201d)
 

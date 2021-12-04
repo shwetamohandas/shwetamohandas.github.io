@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 
-## Videos
+## Videos:
 
 ### [Nalsar University Of Law's Data Privacy & Citizen's Rights](https://www.youtube.com/watch?v=fkBoJJHQ_Lc&ab_channel=NALSARUniversityofLaw)
 
