@@ -30,6 +30,8 @@ permalink: /writing/
 
 [The Boss Will See You Now - The Growth of Workplace Surveillance in India, is Data Protection Legislation the Answer?](https://cis-india.org/internet-governance/blog/the-boss-will-see-you-now-the-growth-of-workplace-surveillance-in-india-is-data-protection-legislation-the-answer)
 
+[Your Phone Number is Not Only Yours](https://theglassroom.org/en/capsule-1-0/exhibits/your-phone-number-is-not-only-yours/)
+
 [The PDP Bill 2019 Through the Lens of Privacy by Design](https://cis-india.org/internet-governance/blog/the-pdp-bill-2019-through-the-lens-of-privacy-by-design)
 
 [FinTech in India: A Study of Privacy and Security Commitments](https://cis-india.org/internet-governance/blog/aayush-rathi-and-shweta-mohandas-april-30-2019-fintech-in-india-a-study-of-privacy-and-security-commitments)
