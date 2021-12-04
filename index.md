@@ -10,6 +10,6 @@ I am a lawyer observing and researching on Intellectual Property Rights and acce
 
 This site is still very much a work in progress, but it will soon have all the things you’d expect: a little more info, links to my writing and research, some videos of my talks, some press and opinion pieces, book reviews, and maybe some amateur digital art.
 
-I would love to hear from you. Please reach out via
-Email: shweta at cis-india.org
-Twitter @shwetamohandas
+I would love to hear from you. Please reach out via:
+- Email: shweta at cis-india.org
+- Twitter: @shwetamohandas
