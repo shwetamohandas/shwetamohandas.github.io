@@ -12,4 +12,4 @@ This site is still very much a work in progress, but it will soon have all the t
 
 I would love to hear from you. Please reach out via:
 - Email: shweta at cis-india.org
-- Twitter: @shwetamohandas
+- Twitter: @ShwetaMohandas
