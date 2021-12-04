@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+image: 'https://shwetamohandas.com/assets/img/shweta.png'
 ---
 ![Home Image](/assets/img/home.png)
 
