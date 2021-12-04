@@ -4,13 +4,13 @@ title: Writing
 permalink: /writing/
 ---
 
-##Academic Writing:
+## Academic Writing:
 
 [Ali, Feroz and Mohandas, Shweta, Patents are Windows or they are Walls: Open Licensing of Publicly-funded Research (October 9, 2017)](https://ssrn.com/abstract=3307768)
 
 [Lakshané, Rohini and Mohandas, Shweta, Joining the Dots in India's Big-Ticket Mobile Phone SEP Litigation (October 31, 2017](https://ssrn.com/abstract=3120364 or http://dx.doi.org/10.2139/ssrn.3120364)
 
-##Opinion Pieces:
+## Opinion Pieces:
 
 [Personal Data Protection Bill must examine data collection practices that emerged during pandemic](https://www.news9live.com/technology/personal-data-protection-bill-must-examine-data-collection-practices-that-emerged-during-pandemic-137031)
 
@@ -22,7 +22,7 @@ permalink: /writing/
 
 [Is the new ‘interception’ order old wine in a new bottle?](https://www.newslaundry.com/2018/12/27/is-the-new-interception-order-old-wine-in-a-new-bottle)
 
-##Articles & Reports:
+## Articles & Reports:
 
 [Separating The Wheat From The Chaff: The Use Of AI In Content Moderation](http://rsrr.in/2020/09/07/ai-content-moderation/)
 
@@ -44,7 +44,7 @@ permalink: /writing/
 
 [People Driven and Tech Enabled – How AI and ML are Changing the Future of Cyber Security in India](https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india)
 
-##Policy Submissions
+## Policy Submissions
 
 [Comments and recommendations to the Guidelines for “Influencer Advertising on Digital Media” 05 April, 2021](https://cis-india.org/internet-governance/blog/comments-and-recommendations-to-the-guidelines-for-201cinfluencer-advertising-on-digital-media201d)
 

@@ -4,7 +4,7 @@ title: Media
 permalink: /media/
 ---
 
-##Media Quotes:
+## Media Quotes:
 
 [Draft NDHM policy: Experts warn of ‘structural problems’, lack of clarity on patient control over data](https://indianexpress.com/article/business/draft-ndhm-policy-experts-warn-of-structural-problems-lack-of-clarity-on-patient-control-over-data-6594847/)
 
@@ -52,6 +52,6 @@ permalink: /media/
 
 [Bihar Looking To Deploy Facial Recognition System In Bhagalpur And Muzaffarpur, Connect It To CCTNS](https://www.medianama.com/2021/04/223-bihar-bhagalpur-muzaffarpur-facial-recognition-cctns/)
 
-##Podcast:
+## Podcast:
 
 [Influx the CIS podcast](https://in-flux.cis-india.org/)
