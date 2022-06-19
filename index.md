@@ -14,4 +14,4 @@ I have an LLM in Public International Law from Queen Mary University of London a
 
 I would love to hear from you. Please reach out via:
 - Email: shweta[dot]mohandas[at]gmail.com
-- Twitter: [@ShwetaMohandas](https://twitter.com/ShwetaMohandas)
+- Twitter: [ShwetaMohandas](https://twitter.com/ShwetaMohandas)
