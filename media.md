@@ -6,6 +6,16 @@ permalink: /media/
 
 ## Media Quotes:
 
+### [Cops Will Be Able to Scan Your Fingerprints With a Phone](https://www.wired.co.uk/article/police-contactless-fingerprints-photos)
+
+### [Is it legal for stores to collect phone numbers?](https://www.deccanherald.com/metrolife/metrolife-your-bond-with-bengaluru/is-it-legal-for-stores-to-collect-phone-numbers-1106237.html)
+
+###[What Will Protect People From Hate Crimes in the Metaverse?](https://theswaddle.com/what-will-protect-people-from-hate-crimes-in-the-metaverse/)
+
+###[[Exclusive: Mumbai Police Looks To Tackle Cyber Crimes By Profiling Social Media Users And Keeping Tabs On Their “Thoughts”](https://www.medianama.com/2022/03/223-exclusive-mumbai-safe-city-project-police-tender/)
+
+### [Bengaluru experts fear new criminal info bill is draconian](https://www.deccanherald.com/metrolife/metrolife-your-bond-with-bengaluru/bengaluru-experts-fear-new-criminal-info-bill-is-draconian-1098691.html)
+
 ### [Draft NDHM policy: Experts warn of ‘structural problems’, lack of clarity on patient control over data](https://indianexpress.com/article/business/draft-ndhm-policy-experts-warn-of-structural-problems-lack-of-clarity-on-patient-control-over-data-6594847/)
 
 ### [Healthcare Industry’s Wish List For India’s Personal Data Protection Bill](https://www.medianama.com/2020/06/223-healthcare-wishlist-india-personal-data-protection-bill/)
