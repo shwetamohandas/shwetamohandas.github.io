@@ -12,6 +12,10 @@ permalink: /writing/
 
 ## Opinion Pieces:
 
+### [The Data Protection Bill 2021: A Missed Health Opportunity](https://www.medianama.com/2022/02/223-data-protection-bill-health-data-unique-id/)
+
+### [Nothing to Kid About – Children's Data Under the New Data Protection Bill](https://www.ijlt.in/post/nothing-to-kid-about-children-s-data-under-the-new-data-protection-bill)
+
 ### [Personal Data Protection Bill must examine data collection practices that emerged during pandemic](https://www.news9live.com/technology/personal-data-protection-bill-must-examine-data-collection-practices-that-emerged-during-pandemic-137031)
 
 ### [In India, Privacy Policies of Fintech Companies Pay Lip Service to User Rights](https://thewire.in/tech/india-fintech-data-privacy)
@@ -47,6 +51,10 @@ permalink: /writing/
 ### [People Driven and Tech Enabled – How AI and ML are Changing the Future of Cyber Security in India](https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india)
 
 ## Policy Submissions:
+
+### [Comments on InDEA 2.0](https://cis-india.org/internet-governance/comments-on-indea-2.0)
+
+### [Comments to National Digital Health Mission: Health Data Management Policy](https://cis-india.org/internet-governance/blog/comments-to-national-digital-health-mission-health-data-management-policy)
 
 ### [Comments and recommendations to the Guidelines for “Influencer Advertising on Digital Media” 05 April, 2021](https://cis-india.org/internet-governance/blog/comments-and-recommendations-to-the-guidelines-for-201cinfluencer-advertising-on-digital-media201d)
 
